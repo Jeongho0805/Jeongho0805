@@ -46,7 +46,8 @@ Here are some ideas to get you started:
   :trophy: Algorithm
   ---
 
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/pjhpjh0805?ext=activity)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjhpjh0805)](https://solved.ac/pjhpjh0805/)
+
   
 
 </div>
